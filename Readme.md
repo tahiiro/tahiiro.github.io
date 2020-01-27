@@ -25,7 +25,7 @@
 
 Avoid the average and create a personal portfolio page
 
-![Alt text](static/screenshots/screan.jpg?raw=true "Portfolio1 header")
+![Alt text](https://user-images.githubusercontent.com/46026550/73199650-834aa200-4135-11ea-9235-3e841be57769.PNG)
 
 Use this project to make your first portfolio, CV, or resume before doing the real thing!
 
